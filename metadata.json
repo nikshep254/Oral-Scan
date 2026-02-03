@@ -1,0 +1,7 @@
+{
+  "name": "OralScan AI",
+  "description": "An AI-powered assistant for preliminary oral health screening and diagnosis support using visual analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
